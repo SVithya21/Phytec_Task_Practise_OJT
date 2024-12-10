@@ -1,1 +1,0 @@
-int arm(int n);
